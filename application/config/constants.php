@@ -35,7 +35,7 @@ define('FOPEN_WRITE_CREATE',					'ab');
 define('FOPEN_READ_WRITE_CREATE',				'a+b');
 define('FOPEN_WRITE_CREATE_STRICT',				'xb');
 define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
-
-
+define('TWILIO_SID','ee038cfc585cc251adffe5c4da6ce416');
+define('TWILIO_TOKEN','AC34f41eaab6530ea5a1e0f8dbe61e67f8');
 /* End of file constants.php */
 /* Location: ./application/config/constants.php */
